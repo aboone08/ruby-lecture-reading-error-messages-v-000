@@ -1,12 +1,6 @@
-"hello world"
+greeting = "hello world"
 
 def hello_world(greeting)
-  puts 
-  
-
-def display_greeting(name)
-  puts "Hello #{name}"
+  puts #{greeting}
 end
-
-seany = 'Sean'
-display_greeting(seany)
+  
