@@ -1,6 +1,5 @@
-greeting = "hello world"
+"hello world"
 
-def hello_world(greeting)
-  puts #{greeting}
-end
+def hello_world
   
+
